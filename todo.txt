@@ -1,0 +1,16 @@
+chrome extension
+
+changeset extension:	
+field level security
+
+1.checkbox to all checkboxes //
+2.searchbox over paginated list(of changeset)
+3.searchbox in changeset field select
+4.display fields selected with unselect field
+
+
+DO 2:
+original page:		https://cts56.lightning.force.com/lightning/setup/OutboundChangeSet/page?address=%2Fchangemgmt%2FlistOutboundChangeSet.apexp
+
+list loaded page:	https://cts56.lightning.force.com/lightning/setup/OutboundChangeSet/page?address=%2Fchangemgmt%2FoutboundChangeSetDetailPage.apexp%3Fid%3D0A25g000000wk6z
+
